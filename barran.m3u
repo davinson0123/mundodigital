@@ -1,9 +1,11 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/une-tv-hn-5929.jpg" group-title="INFORMATIVO", UNE TV
+https://www.amixtv.com:8081/unetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg" group-title="NACIONAL", CARACOL TV
+https://ssh101.bozztv.com/ssh101/1ch352453/chunks.m3u8?nimblesessionid=407245
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPtCw61OqdEAAAA/chunklist_w805180899.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg" group-title="REGIONAL", TELEPETROLEO 
 https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmPtL6O1OqdEAAAA/chunklist_w1175483511.m3u8
