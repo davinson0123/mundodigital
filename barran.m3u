@@ -29,6 +29,14 @@ https://ssh101.bozztv.com/ssh101/4ch352453/chunks.m3u8?nimblesessionid=416216
 https://servidordevideo.com:3077/stream/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-rcn-hd-en-vivo-150x150.png.webp" group-title="NACIONAL", RCN
+https://ssh101.bozztv.com/ssh101/3ch352453/chunks.m3u8?nimblesessionid=418858
+
+
+#EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-rcn-hd-en-vivo-150x150.png.webp" group-title="NACIONAL", RCN
+https://dtvott-abc.akamaized.net/dash_live_1196/dash/1196_StarCH_Arg-video=3838800-100589757870016.dash
+
+
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPtCw61OqdEAAAA/chunklist_w805180899.m3u8
 
