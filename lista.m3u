@@ -1,6 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,ENLACE TELEVISION
+#EXTINF:-1 ,tvg-logo = "https://cdn.colombia.com/canales/enlace-television-3301.jpg" ,COL:ENLACE TELEVISION
 
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPtCw61OqdEAAAA/chunklist_w805180899.m3u8
