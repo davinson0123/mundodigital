@@ -5,6 +5,10 @@
 https://www.amixtv.com:8081/unetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg" group-title="NACIONAL", CARACOL TV
 https://ssh101.bozztv.com/ssh101/1ch352453/chunks.m3u8?nimblesessionid=407245
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="RELIGIOSO", TV GRACIA
+https://streamyes.alsolnet.com/tvgracia/live/chunklist_w48444022.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/caracol13-1024x512.png" group-title="NACIONAL", CARACOL HD2
+https://ssh101.bozztv.com/ssh101/2ch352453/chunks.m3u8?nimblesessionid=413083
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPtCw61OqdEAAAA/chunklist_w805180899.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg" group-title="REGIONAL", TELEPETROLEO 
