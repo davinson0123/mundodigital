@@ -41,8 +41,24 @@ https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cv0Ery56b9d3UeyHVOsmJxd6V6U
 https://ssh101.bozztv.com/ssh101/sencolhdtv/chunks.m3u8?nimblesessionid=424507
 
 
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/suram-tv-3303.jpg" group-title="MUSICAL", SURAM 
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.canaltro.com/wp-content/uploads/elementor/thumbs/Logo-canal-tro-blanco-pzlgstmpjkt9drf9orqk6u1jpszsxxzuetlkqjgb34.webp" group-title="REGIONAL", CANAL TRO
+https://liveingesta318.cdnmedia.tv/canaltro2live/live-1500/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/El_Trece.png" group-title="NACIONAL", CANAL 13
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/ondambiental-tv-5693.jpg" group-title="MUSICAL", ODAMBIENTAL TV
+https://server12.videostreaming.net:3230/stream/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
-https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPtCw61OqdEAAAA/chunklist_w805180899.m3u8
+https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPtZxK1OqdEAAAA/chunklist_w1095467072.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg" group-title="REGIONAL", TELEPETROLEO 
