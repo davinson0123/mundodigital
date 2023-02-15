@@ -33,8 +33,12 @@ https://servidordevideo.com:3077/stream/play.m3u8
 https://ssh101.bozztv.com/ssh101/3ch352453/chunks.m3u8?nimblesessionid=418858
 
 
-#EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-rcn-hd-en-vivo-150x150.png.webp" group-title="NACIONAL", RCN
-https://dtvott-abc.akamaized.net/dash_live_1196/dash/1196_StarCH_Arg-video=3838800-100589757870016.dash
+#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/70624a8440ccd5eb32e03d5cdac503e0/content/5ddd2bb8b437794a333891a0/09c5fe4f2fe004fa2b3560db23f7acd6/img.png?_v=1.5.99" group-title="PELICULAS", STAR CHANNEL
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cv0Ery56b9d3UeyHVOsmJxd6V6USU1H5BAfk95ClET_fjmBSuSrwMXXEb9wiH6KxIIRwT8bGI7snuydU_Ad0t1mMOySNOmko26O0sARp9bBo1V-uFpLPRHJnTUvVQoXtLq3GVZXFUbfUcgsFAEasjoji38Mz3GidEoUNGoYXBtQqL2S3Hv0Xou9LKjz5qLVj_8jyMeprKyX_eR8Iggey3t6qUV4T6aSGcjHoOT9kThIO4rLnk8DEtRlypwKir0NYtTucMJjPnakrZOMojP460QUK60gL35vfJbviEOVcWL1ZRy-6Prqmcg1aQvgQcZL-LZO9FPIGMqxKakzzHhZ2vQt7jEiFqJb-2mWbLBlwxSRJIerh0Ua4cdDHLK-P6aNY-PwVwtJEv0omuwWa2bI8GqZ5FKkuBy5oB2oEvQTy-zThnPHt-ljc-aD_cVnlE55s7IdBVY4czVkA-wTlCocIzpYAh7T5gtRdukpsvl61c4k9rt8OubAoqZB4DlgarebjrP35ap2YVrFVLLgm2RXJID-MKzE5Mn_1HHD_5sD1J9uyYCdr2TGK1c1PVOat873cp3g1RV4MWqBrjbJkzw_FI5MgQK0A-fBsdPDUbZbzdlY1COFx-N73V9Of4pCcmnXwDYMKb804EKvAXU9mOjBQv2r530bD-9_9o9TP2NFeyem6eZrHMmibK_dGXdapNBIEYo1gcH6saVIW-CrDTSy6ViTJh2h1vCW4lr8DjI8VoXEHrJf2pwSAu4YpGf-VdJK4Fe7kxbRpnDBuKHRL8io-XW4lJAYqV65sMlcGqMkMXvxnWE7XvnwgtQ2SoKp7S8AHMY05l0O4wDbt-Q6C3eEXWRoMs5UULI72rCx0eABKIAEqCWV1LXdlc3QtMjDxBQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/se%C3%B1al-colombia11.png" group-title="NACIONAL", SEÑAL COLOMBIA 
+https://ssh101.bozztv.com/ssh101/sencolhdtv/chunks.m3u8?nimblesessionid=424507
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
