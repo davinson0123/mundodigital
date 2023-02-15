@@ -25,6 +25,10 @@ https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live
 https://ssh101.bozztv.com/ssh101/4ch352453/chunks.m3u8?nimblesessionid=416216
 
 
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/la-despechada-tv-5976.jpg" group-title="MUSICAL", LA DESPECHADA 
+https://servidordevideo.com:3077/stream/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPtCw61OqdEAAAA/chunklist_w805180899.m3u8
 
