@@ -6,7 +6,7 @@ https://www.amixtv.com:8081/unetv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg" group-title="NACIONAL", CARACOL TV
-https://ssh101.bozztv.com/ssh101/1ch352453/chunks.m3u8?nimblesessionid=527938
+https://dtvott-akaws.akamaized.net/live_1035/DASH/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tvgracia-5585.jpg" group-title="RELIGIOSO", TV GRACIA
