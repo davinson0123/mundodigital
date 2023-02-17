@@ -32,6 +32,7 @@ https://servidordevideo.com:3077/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-rcn-hd-en-vivo-150x150.png.webp" group-title="NACIONAL", RCN SD
 http://clubtv.link/feb1602/key4413/lista1.php?c=a006&f=.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Star_Channel.png" group-title="PELICULAS", STAR CHANNEL
 http://clubtv.link/feb1602/key4413/lista1.php?c=a08r&f=.m3u8
 
@@ -88,16 +89,24 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a052&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png" group-title="TV PREMIUM", HBO
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png" group-title="PELICULA", HBO
 http://clubtv.link/feb1602/key4413/lista1.php?c=a09a&f=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/axn.png" group-title="PELICULA", AXN
+http://clubtv.link/feb1602/key4413/lista1.php?c=a04i&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/TLC_logo_rgb_white_0.png" group-title="ENTRETENIMIENTO", TLC
+http://clubtv.link/feb1602/key4413/lista1.php?c=a062&f=.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Discovery.png" group-title="DOCUMENTAL", DISCOVERY CHANNEL
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvgEKFxeru1sEmtE5LlptYr0qL2MO1ehnWi4hbmEsZuNHVuCSiVJwhh-YvfE_NA1NnUc2FVrDQYsS_C2Xq20VYb01zpCS9-pWXv-2h4iHctvezAqJOtBiEJSdDbiWCu2qkl-XdsnWL-8Y7JPcTy-1u37DZ7acPJIGMtI7RLO_RtEAjVB8ljlcBDo_1l6qrBreJQwqasJ6GgtBFbrW3e_Qk4BVf6_5s-OAxMsJNh603GP9s-01bhoB2r1ZvcXoKum_gA8O3fVTgn7NY5cJoldKUvC1hYq2RThguH2MxQxgZXElj6LYrHvG98IQ0-r3j56yG59aHubtGnp35FDv-kxPZ-0EID4BKOQnOPM-YU11S2kcRIgnU7GjRKQ_LJ4tfaeAIb5gKPf3dCNy3yfqdp92BztVloj1erKOb-bb4pQJQKnr1i7xV7Vki_lb4zFLqjvuEKliSgu-DF_zItHjsXgxr0mDkhtkmTQ9BzWeRJDPlhhNb7mja68L35KU6_bdfMX2BGCn00pl5djHGlh9cj2V2iOyYaTJZPjrL-RVfctlJoKm1eocs7jgRgs5dDF0PCY-P1zHSSeyOaFFNJjyAGHBVF7x1HUklvPqzxW__SY4HoFUB5GwV3V_DsXDVDVOChhl0Sbcwsp380R-Qqr9_mWqHqVUPIO6EXi-Sjf3qcVvmPScxlMr94Qh2fjngG2dXx63GjuizCCeAQx_Ckg6u8HB8Wos9TEN7AZK0FcN7TdVESBTta6HOKhZC9Fyjt4yMsnh5xxMA8QBTBASRNkFWbrh6hlaB0dQZcGuJfb5OWNVQTVquXIIf0UcWuO9eAbjYLIY7vraxXec5w16XUaDEPAQ0ZxlNhcNQFXniABKglldS13ZXN0LTIw8QU.m3u8
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0qu&f=.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Animal_Planet.png" group-title="DOCUMENTAL", ANIMAL PLANET
-https://1013-vos.dtvott.com/DASH/manifest.mpd
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0rz&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
