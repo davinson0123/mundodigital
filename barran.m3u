@@ -5,8 +5,8 @@
 https://www.amixtv.com:8081/unetv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg" group-title="NACIONAL", CARACOL TV
-https://ssh101.bozztv.com/ssh101/1ch352453/chunks.m3u8?nimblesessionid=537449
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg" group-title="NACIONAL", CARACOL SD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a005&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tvgracia-5585.jpg" group-title="RELIGIOSO", TV GRACIA
@@ -22,18 +22,18 @@ https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live
 
 
 #EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-uno-hd-colombia-en-vivo-1-150x150.png.webp" group-title="NACIONAL", CANAL UNO 
-https://ssh101.bozztv.com/ssh101/4ch352453/chunks.m3u8?nimblesessionid=537774
+http://clubtv.link/feb1602/key4413/lista1.php?c=a003&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/la-despechada-tv-5976.jpg" group-title="MUSICAL", LA DESPECHADA 
 https://servidordevideo.com:3077/stream/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-rcn-hd-en-vivo-150x150.png.webp" group-title="NACIONAL", RCN
-https://ssh101.bozztv.com/ssh101/3ch352453/chunks.m3u8?nimblesessionid=537985
+#EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-rcn-hd-en-vivo-150x150.png.webp" group-title="NACIONAL", RCN SD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a006&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Star_Channel.png" group-title="PELICULAS", STAR CHANNEL
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvwEJ-PAupdp6w-QaWZSmM-qXLoZ05uoO63cPgw2PQmv88YuSkhsJBiJeXNckiH41FbXPGOmi5SYLoRooxkImGv3REqp6JYepM4S1Gp3UP6Nzt3wamlB173mC3o4ozUhvThzZy9QucMHxqqTcCbV9gJcHaX9nZg3uHjuSOHipptkPGZ7F-9l7wJWwjsmHNbj310Ode-g9WuuNV4l8nU-7sPGtnCm_rwPqPA_75Kg43jR4Pfbj8JVHDLEu3MSNL8kCBWN-x434LK_6H8velXlYh4yNb82LU8Yh5ya7-tJ3CJ882adoObg6YRn1iU310zXy1fdBwZ02vD4JuIQQpUc2lqFUyAKnkLwtAJc3xLLxoD_sqF1ed52QzJT-SLeUS18hsGtQ33mGhG4lKaZ-vJ5wEVb1w9peVyt6vDAimg4zLjbs54EZZZJUNkmCQ7frkloK9B8wq1Kg0iO0x7C9gWLCtYFalpAEH6aXFjhyaiTIq7uCVM18Lk4Smn68INLaoANjssJWeFtYwgkGSJWCORer77sfnXqkZq4MynbmeiXdChZApuHUhoQ4-UoSTe6q7x3J5teCaio4dYHXzAI8RHYQk1xEzZai2qy6xKsBxPwPqqAbleTgG7GHbT1Gklc1n_NowTq55-rcx5LT3yzQBT6LVMXM-Lg2cmPZxEtzPfiK6N28Wo0khxYYVA5V-0Pn9XdMri5MwqrME0JPIj7taRZae8xM8eTHi2sPA8YoVZyT_u2Tv2QbwvV1MsIrDOBdqSvtYoBKCEa1vUG89nOietfGR-x0OCEHG04jer2dOmzsTi_P0AHNF7mAzBRBvpj2PRis9fb6CAHNRGGfvTPpJb0Ggzt22ALrDvkfjhD33AgASoJZXUtd2VzdC0yMPEF.m3u8
+http://clubtv.link/feb1602/key4413/lista1.php?c=a08r&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="NACIONAL", SEÑAL COLOMBIA 
