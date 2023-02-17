@@ -77,10 +77,6 @@ http://clubtv.link/feb1602/key4413/distro.php?c=euronews-spa&f=.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="NOTICIAS", AMX Noticias (720p)
-http://tvpremiumhd.club/lista-gratuita/161210/on/lives.php?id=5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="INFORMATIVO", TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
 
@@ -101,12 +97,24 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a04i&f=.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a062&f=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/h%26h_white_0.png" group-title="TV ENTRETENIMIENTO", Discovery H&H HD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0re&f=.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Discovery.png" group-title="DOCUMENTAL", DISCOVERY CHANNEL
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0qu&f=.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Animal_Planet.png" group-title="DOCUMENTAL", ANIMAL PLANET
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0rz&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/universal.png" group-title="DOCUMENTAL", HISTORY CHANNEL
+http://clubtv.link/feb1602/key4413/lista1.php?c=a03y&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/universal.png" group-title="TV PELICULAS", ESTUDIO UNIVERSAL
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0i0&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
