@@ -101,6 +101,10 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a062&f=.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0re&f=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Discovery.png" group-title="DOCUMENTAL" ,DISCOVERY THEATER
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0rf&f=.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Discovery.png" group-title="DOCUMENTAL", DISCOVERY CHANNEL
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0qu&f=.m3u8
 
@@ -113,7 +117,7 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a0rz&f=.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a03y&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/universal.png" group-title="TV PELICULAS", ESTUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/studio.png" group-title="TV PELICULAS", ESTUDIO UNIVERSAL
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0i0&f=.m3u8
 
 
