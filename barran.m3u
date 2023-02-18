@@ -65,8 +65,8 @@ https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=2591&f=
 http://clubtv.link/feb1602/key4413/lista1.php?c=a04a&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="NOTICIAS", Euronews Español
-http://clubtv.link/feb1602/key4413/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="USA LOCAL", Telemundo 48 CA
+https://v-ca.mybtv.net/live/140.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NOTICIAS", DW ESPAÑOL HD
@@ -242,3 +242,20 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a05g&f=.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Sony",Sony
 http://clubtv.link/feb1602/key4413/lista1.php?c=a04h&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="NatGeo",Nat Geo
+http://clubtv.link/feb1602/key4413/lista1.php?c=a03x&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE",Cinemax
+https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="PARAMOUNT",Paramount HD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0jf&f=.m3u8
+
+
+
+
+
