@@ -219,3 +219,26 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a0rm&f=.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="CARACOLHD",Caracol HD
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0r7&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 24", LAT - PASIONES
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/49168.m3u8
+
+
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="ENTRETENIMIENTO",Tlnovelas
+https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
+
+
+#EXTINF:-1 group-title="Lista 24", LAT - UNIVISION TELENOVELAS
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/1090591.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FX",FX
+http://clubtv.link/feb1602/key4413/lista1.php?c=a04k&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBOXTREMESD",HBO XTREME SD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a05g&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Sony",Sony
+http://clubtv.link/feb1602/key4413/lista1.php?c=a04h&f=.m3u8
