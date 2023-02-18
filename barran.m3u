@@ -129,6 +129,26 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a0hw&f=.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a040&f=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cncdn.dmti.cloud/c8a42ccaf811a7c9765dfadd45cb36b0078dcbab/static/media/cn-logo.3f4d7cfb.svg" group-title="ANIMADOS", CARTOON NETWORK
+http://clubtv.link/feb1602/key4413/lista1.php?c=a049&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="ANIMADOS", DISCOVERY KISD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0qt&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static-mh.content.disney.io/matterhorn/assets/goc/disney_logo_dark@2x-45d70f7dd57b.png" group-title="ANIMADOS", DISNEY CHANNEL
+http://clubtv.link/feb1602/key4413/lista1.php?c=a05m&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/djunior.png" group-title="ANIMADOS", DISNEY JR
+http://clubtv.link/feb1602/key4413/lista1.php?c=a05i&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--Ta9c8dZP5A/WotiP-fx9LI/AAAAAAAAAaI/BWe4L-23n1UlRdmB3926Zc4WegEYWbrHgCLcBGAs/s1600/hbo2.png" group-title="PELICULA", HBO 2
+http://clubtv.link/feb1602/key4413/lista1.php?c=a08j&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPv_yq1PWHhAAAA/chunklist_w296640299.m3u8
 
