@@ -117,8 +117,16 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a0rz&f=.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a03y&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/studio.png" group-title="TV PELICULAS", ESTUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/studio.png" group-title="PELICULAS", ESTUDIO UNIVERSAL
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0i0&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.milifetime.tv/themes/custom/lifetime/images/logo.svg" group-title="ENTRETENIMIENTO", LIFETIME
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0hw&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/universal.png" group-title="PELICULA", UNIVERSAL
+http://clubtv.link/feb1602/key4413/lista1.php?c=a040&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
