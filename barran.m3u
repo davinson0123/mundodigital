@@ -33,7 +33,7 @@ https://servidordevideo.com:3077/stream/play.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a006&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Star_Channel.png" group-title="PELICULAS", STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/starchannel.png" group-title="PELICULAS", STAR CHANNEL
 http://clubtv.link/feb1602/key4413/lista1.php?c=a08r&f=.m3u8
 
 
@@ -97,11 +97,11 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a04i&f=.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a062&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/h%26h_white_0.png" group-title="TV ENTRETENIMIENTO", Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/h%26h_white_0.png" group-title="ENTRETENIMIENTO", Discovery H&H HD
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0re&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/logo_canal/Discovery.png" group-title="DOCUMENTAL" ,DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/distheater.webp" group-title="DOCUMENTAL" ,DISCOVERY THEATER
 http://clubtv.link/feb1602/key4413/lista1.php?c=a0rf&f=.m3u8
 
 
@@ -147,6 +147,38 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a05i&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--Ta9c8dZP5A/WotiP-fx9LI/AAAAAAAAAaI/BWe4L-23n1UlRdmB3926Zc4WegEYWbrHgCLcBGAs/s1600/hbo2.png" group-title="PELICULA", HBO 2
 http://clubtv.link/feb1602/key4413/lista1.php?c=a08j&f=.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTERTAINMENT
+http://clubtv.link/feb1602/key4413/lista1.php?c=a05q&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBOFamilySD",HBO Family
+http://clubtv.link/feb1602/key4413/lista1.php?c=a05h&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CityTV",City TV
+http://clubtv.link/feb1602/key4413/lista1.php?c=a00g&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN2",ESPN 2
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0hn&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN3",ESPN 3
+http://clubtv.link/feb1602/key4413/lista1.php?c=a04v&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPNCO",ESPN CO
+http://clubtv.link/feb1602/key4413/lista1.php?c=a00c&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="WinSports",Win Sports
+http://clubtv.link/feb1602/key4413/lista1.php?c=a04m&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FOX",Fox Sports
+http://clubtv.link/feb1602/key4413/lista1.php?c=a05r&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
