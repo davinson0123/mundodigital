@@ -181,9 +181,41 @@ http://clubtv.link/feb1602/key4413/lista1.php?c=a04m&f=.m3u8
 http://clubtv.link/feb1602/key4413/lista1.php?c=a05r&f=.m3u8
 
 
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="MTV",MTV
+http://clubtv.link/feb1602/key4413/lista1.php?c=a042&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ENLACE",Enlace
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0qx&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPxBFu1PWHhAAAA/chunklist_w1816729044.m3u8
 
 
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Nickelodeon",Nickelodeon
+http://clubtv.link/feb1602/key4413/lista1.php?c=a03v&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Space",Space
+http://clubtv.link/feb1602/key4413/lista1.php?c=a04j&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg" group-title="REGIONAL", TELEPETROLEO 
 https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmPxBhe1PWHhAAAA/chunklist_w1055902233.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TNTSERIESHD",TNT Series HD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0rj&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBOPlus",HBO Plus
+http://clubtv.link/feb1602/key4413/lista1.php?c=a05f&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="RCNHD",RCN HD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0rm&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CARACOLHD",Caracol HD
+http://clubtv.link/feb1602/key4413/lista1.php?c=a0r7&f=.m3u8
