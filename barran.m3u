@@ -245,43 +245,43 @@ http://clubtv.link/feb1602/key5448/lista1.php?c=a05g&f=.m3u8
 http://clubtv.link/feb1602/key5448/lista1.php?c=a04h&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="NatGeo",Nat Geo
+#EXTINF:-1 tvg-logo="https://www.ngenespanol.com/wp-content/uploads/2018/08/ng-logo-hor-a.png" group-title="DOCUMENTAL", NAT GEO
 http://190.131.228.59:8000/play/a03x/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE",Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="PELICULAS", CINEMAX
 https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TVE",TVE
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg" group-title="NACIONAL", TVE
 http://clubtv.link/feb1602/key5448/lista1.php?c=a04e&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TELEANTIOQUIA",Teleantioquia
+#EXTINF:-1 tvg-logo="https://www.teleantioquia.co/wp-content/uploads/2021/03/TELEANTIOQUIA-EMOCIONA.gif" group-title="NACIONAL", TELEANTIOQUIA
 http://clubtv.link/feb1602/key5448/lista1.php?c=a04l&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM",Telecafe
+#EXTINF:-1 tvg-logo="https://telecafe.gov.co/wp-content/uploads/2021/02/Icono.png" group-title="NACIONAL", TELECAFE
 http://190.131.228.59:8000/play/a0rv/index.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM",Telecaribe
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/61a456_8cd24dad40984f798c34e91982e36986~mv2.gif" group-title="NACIONAL", TELECARIBE
 http://190.131.228.59:8000/play/a0rt/index.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telefeca",Telefe ca
+#EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.22/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="NACIONAL", TELEFE CA
 http://190.131.228.59:8000/play/a04p/index.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TELEFUTURO",Telefuturo
+#EXTINF:-1 tvg-logo="https://telefuturo.com.py/wp-content/uploads/2022/11/cropped-logo-telefuturo.png" group-title="NACIONAL", TELEFUTURO
 http://clubtv.link/feb1602/key5448/lista1.php?c=a0hy&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Teleislas",Teleislas
+#EXTINF:-1 tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="NACIONAL", TELEISLAS
 http://clubtv.link/feb1602/key5448/lista1.php?c=a00f&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telemundo",Telemundo
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg" group-title="ENTRETENIMIENTO", TELEMUNDO INTERNACIONAL
 http://clubtv.link/feb1602/key5448/lista1.php?c=a067&f=.m3u8
 
 
