@@ -153,36 +153,36 @@ http://clubtv.link/feb1602/key5448/lista1.php?c=a08j&f=.m3u8
 http://clubtv.link/feb1602/key5448/lista1.php?c=a05q&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="PELICULA", HBO Family
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="PELICULA", HBO FAMILY
 http://168.194.171.33:8000/play/a00u/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://citytv.eltiempo.com/images/logo-city.svg" group-title="NACIONAL", City TV
+#EXTINF:-1 tvg-logo="https://citytv.eltiempo.com/images/logo-city.svg" group-title="NACIONAL", CITY TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN2",ESPN 2
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0hn&f=.m3u8
+#EXTINF:-1 tvg-logo="https://librefutboltv.com/img/ESPN_2.png" group-title="DEPORTES", ESPN 2
+http://clubtv.link/feb1602/key5448/lista1.php?c=a0hn&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN3",ESPN 3
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04v&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="DEPORTES", ESPN 3
+http://clubtv.link/feb1602/key5448/lista1.php?c=a04v&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPNCO",ESPN CO
-http://clubtv.link/feb1602/key4413/lista1.php?c=a00c&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="DEPORTES", ESPN
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=561&f=.m3u8
 
 
-#EXTINF:-1  group-title="Lista 29", Win Sports Plus
+#EXTINF:-1  tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WhatsApp%20Image%202022-12-14%20at%208.59.04%20AM.jpeg" group-title="DEPORTES", WIN SPORTS PLUS
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127583
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FOX",Fox Sports
-http://clubtv.link/feb1602/key4413/lista1.php?c=a05r&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WhatsApp%20Image%202022-12-14%20at%208.59.04%20AM.jpeg" group-title="DEPORTES", FOX SPORTS
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=522&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="MTV",MTV
-http://clubtv.link/feb1602/key4413/lista1.php?c=a042&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", MTV
+http://clubtv.link/feb1602/key5448/lista1.php?c=a042&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONAL", ENLACE TELEVISION
@@ -190,15 +190,15 @@ https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmPxBFu1PWHhAAAA/
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="ENLACE",Enlace
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0qx&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a0qx&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Nickelodeon",Nickelodeon
-http://clubtv.link/feb1602/key4413/lista1.php?c=a03v&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=315&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Space",Space
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04j&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=445&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg" group-title="REGIONAL", TELEPETROLEO 
