@@ -205,44 +205,44 @@ https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=445&f=.
 https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmPxBhe1PWHhAAAA/chunklist_w1055902233.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TNTSERIESHD",TNT Series HD
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/tntseries.webp" group-title="PELICULAS", TNT SERIES
 https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBOPlus",HBO Plus
+#EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/hbo-plus.png" group-title="PELICULAS", HBO PLUS
 http://clubtv.link/feb1602/key5448/lista1.php?c=a05f&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="RCNHD",RCN HD
-http://clubtv.link/feb1602/key5448/lista1.php?c=a0rm&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/1200px-RCN_Novelas_logo.svg.png" group-title="NOVELAS", RCN NOVELAS
+http://168.194.171.33:8000/play/a01n/index.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CARACOLHD",Caracol HD
-http://clubtv.link/feb1602/key5448/lista1.php?c=a0r7&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" group-title="NACIONAL", CARACOL SD
+http://clubtv.link/feb1602/key5448/lista1.php?c=a0rs&f=.m3u8
 
 
-#EXTINF:-1 group-title="Lista 24", LAT - PASIONES
+#EXTINF:-1 tvg-logo="https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="NOVELAS", PASIONES
 http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/49168.m3u8
 
 
-#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="ENTRETENIMIENTO",Tlnovelas
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleblanca.com/img/tlnovelas.png" group-title="NOVELAS", TLNOVELAS
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
 
 
-#EXTINF:-1 group-title="Lista 24", LAT - UNIVISION TELENOVELAS
+#EXTINF:-1 tvg-logo="https://www.teleblanca.com/img/univision.png" group-title="NOVELAS", UNIVISION TELENOVELAS
 http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/1090591.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FX",FX
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04k&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/fx.png" group-title="PELICULAS", FX
+http://clubtv.link/feb1602/key5448/lista1.php?c=a04k&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBOXTREMESD",HBO XTREME SD
-http://clubtv.link/feb1602/key4413/lista1.php?c=a05g&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/hbo-xtreme.png" group-title="PELICULAS", HBO XTREME SD
+http://clubtv.link/feb1602/key5448/lista1.php?c=a05g&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Sony",Sony
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04h&f=.m3u8
+#EXTINF:-1 tvg-logo="https://la.sonychannel.com/sites/la.set/files/sony_channel_logo.png" group-title="PELICULAS", SONY
+http://clubtv.link/feb1602/key5448/lista1.php?c=a04h&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="NatGeo",Nat Geo
