@@ -97,7 +97,7 @@ https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=2507&f=
 https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/h%26h_white_0.png" group-title="ENTRETENIMIENTO", Discovery H&H SD
+#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/h%26h_white_0.png" group-title="ENTRETENIMIENTO", DISCOVERY H&H SD
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127305
 
 
@@ -122,43 +122,43 @@ http://clubtv.link/feb1602/key5448/lista1.php?c=a0i0&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.milifetime.tv/themes/custom/lifetime/images/logo.svg" group-title="ENTRETENIMIENTO", LIFETIME
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0hw&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/universal.png" group-title="PELICULA", UNIVERSAL
-http://clubtv.link/feb1602/key4413/lista1.php?c=a040&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cncdn.dmti.cloud/c8a42ccaf811a7c9765dfadd45cb36b0078dcbab/static/media/cn-logo.3f4d7cfb.svg" group-title="ANIMADOS", CARTOON NETWORK
-http://clubtv.link/feb1602/key4413/lista1.php?c=a049&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a049&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/dkids.png" group-title="ANIMADOS", DISCOVERY KISD
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0qt&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a0qt&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-mh.content.disney.io/matterhorn/assets/goc/disney_logo_dark@2x-45d70f7dd57b.png" group-title="ANIMADOS", DISNEY CHANNEL
-http://clubtv.link/feb1602/key4413/lista1.php?c=a05m&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=312&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/djunior.png" group-title="ANIMADOS", DISNEY JR
-http://clubtv.link/feb1602/key4413/lista1.php?c=a05i&f=.m3u8
+http://168.194.171.33:8000/play/a00v/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--Ta9c8dZP5A/WotiP-fx9LI/AAAAAAAAAaI/BWe4L-23n1UlRdmB3926Zc4WegEYWbrHgCLcBGAs/s1600/hbo2.png" group-title="PELICULA", HBO 2
-http://clubtv.link/feb1602/key4413/lista1.php?c=a08j&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a08j&f=.m3u8
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTERTAINMENT
-http://clubtv.link/feb1602/key4413/lista1.php?c=a05q&f=.m3u8
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/E!.png" group-title="ENTRETENIMIENTO", E ENTERTAINMENT
+http://clubtv.link/feb1602/key5448/lista1.php?c=a05q&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBOFamilySD",HBO Family
-http://clubtv.link/feb1602/key4413/lista1.php?c=a05h&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="PELICULA", HBO Family
+http://168.194.171.33:8000/play/a00u/index.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CityTV",City TV
-http://clubtv.link/feb1602/key4413/lista1.php?c=a00g&f=.m3u8
+#EXTINF:-1 tvg-logo="https://citytv.eltiempo.com/images/logo-city.svg" group-title="NACIONAL", City TV
+http://190.131.228.59:8000/play/a00g/index.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN2",ESPN 2
