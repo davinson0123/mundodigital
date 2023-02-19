@@ -246,50 +246,50 @@ http://clubtv.link/feb1602/key5448/lista1.php?c=a04h&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="NatGeo",Nat Geo
-http://clubtv.link/feb1602/key4413/lista1.php?c=a03x&f=.m3u8
+http://190.131.228.59:8000/play/a03x/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE",Cinemax
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="TVE",TVE
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04e&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a04e&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="TELEANTIOQUIA",Teleantioquia
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04l&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a04l&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM",Telecafe
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0rv&f=.m3u8
+http://190.131.228.59:8000/play/a0rv/index.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM",Telecaribe
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0rt&f=.m3u8
+http://190.131.228.59:8000/play/a0rt/index.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telefeca",Telefe ca
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04p&f=.m3u8
+http://190.131.228.59:8000/play/a04p/index.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="TELEFUTURO",Telefuturo
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0hy&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a0hy&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Teleislas",Teleislas
-http://clubtv.link/feb1602/key4413/lista1.php?c=a00f&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a00f&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telemundo",Telemundo
-http://clubtv.link/feb1602/key4413/lista1.php?c=a067&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a067&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telepacifico",Telepacifico
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04n&f=.m3u8
+http://190.131.228.59:8000/play/a04n/index.m3u8
 
 
-#EXTINF:-1 group-title="Lista 24", LD - DIRECTV SPORTS SD
+#EXTINF:-1 group-title="Lista 24", LD - DIRECTV SPORTS GO
 http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/33512.m3u8
 
 
@@ -306,7 +306,7 @@ http://190.131.228.59:8000/play/a04m/index.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="WIN+",Win Sports+ HD
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0e2&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a0e2&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="PARAMOUNT",Paramount HD
