@@ -81,24 +81,24 @@ http://clubtv.link/feb1602/key5448/lista1.php?c=a052&f=.m3u8
 https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="WinSports", Win Sports
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04m&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.winsports.co/themes/custom/ws_tailwindcss/logo.png" group-title="DEPORTES", Win Sports
+http://clubtv.link/feb1602/key5448/lista1.php?c=a04m&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png" group-title="PELICULA", HBO
-http://clubtv.link/feb1602/key4413/lista1.php?c=a09a&f=.m3u8
+http://clubtv.link/feb1602/key5448/lista1.php?c=a09a&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sintelevisionhd.com/img/axn.png" group-title="PELICULA", AXN
-http://clubtv.link/feb1602/key4413/lista1.php?c=a04i&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=2507&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/TLC_logo_rgb_white_0.png" group-title="ENTRETENIMIENTO", TLC
-http://clubtv.link/feb1602/key4413/lista1.php?c=a062&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/h%26h_white_0.png" group-title="ENTRETENIMIENTO", Discovery H&H HD
-http://clubtv.link/feb1602/key4413/lista1.php?c=a0re&f=.m3u8
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127305
 
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/distheater.webp" group-title="DOCUMENTAL" ,DISCOVERY THEATER
