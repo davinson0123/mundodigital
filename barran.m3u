@@ -293,16 +293,32 @@ http://190.131.228.59:8000/play/a04n/index.m3u8
 http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/33512.m3u8
 
 
-#EXTINF:-1  group-title="Lista 29", Directv Sports 2
-http://bgapp.live/play/futvall-249.php?id=Z29kaXJlY3R2Mg==&token=blackghoooooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 24", TNT SPORTS
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/16138.m3u8
 
 
-#EXTINF:-1  group-title="Lista 29", Deporte - Directv Sports +
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/132374
+#EXTINF:-1  group-title="Lista 29", DIRECTV SPORT+
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/132379
 
 
 #EXTINF:-1 tvg-id="WinSports" group-title="Claro-COL", Win Sports
 http://190.131.228.59:8000/play/a04m/index.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TNTSPORT2",TNT SPORTS 2
+http://clubtv.link/feb1602/key5448/lista1.php?c=a059&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FOX",Fox Sports
+http://clubtv.link/feb1602/key5448/lista1.php?c=a05r&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FoxSports2",Fox Sports 2
+http://clubtv.link/feb1602/key5448/lista1.php?c=a065&f=.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FoxSports3",Fox Sports 3
+http://clubtv.link/feb1602/key5448/lista1.php?c=a066&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="WIN+",Win Sports+ HD
