@@ -353,6 +353,22 @@ https://v-ny.mybtv.net/live/643.m3u8
 https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
 
 
+#EXTINF:-1 group-title="CHILE" tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://i2.paste.pics/8c05e352159b95f3dc0092a6149b3daf.png", La Chilena TV *
+https://vdochile.com:3134/hybrid/play.m3u8?TecnoPlaylist
+
+
+#EXTINF:-1 group-title="COLOMBIA" tvg-id="113" tvg-name="Cali TV" tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg", Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?TecnoPlaylist
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=167&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="LOCALES",A+
+https://regioplay.xyz/php/SR_REGIO_812023_/tpnuevo02.php?tokennn=Regio&c=2278&f=.m3u8
+
+
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="WIN+",Win Sports+ HD
 http://clubtv.link/feb1602/key5448/lista1.php?c=a0e2&f=.m3u8
 
