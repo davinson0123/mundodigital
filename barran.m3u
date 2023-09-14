@@ -1,8 +1,8 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/une-tv-hn-5929.jpg" group-title="INFORMATIVO", UNE TV
-https://amixtv.live:3395/live/unetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/une-tv-hn-5929.jpg" group-title="INFORMATIVO", EL SEÑOR DE LOS CIELOS
+https://vd366.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1694796029228&srcIp=181.55.21.98&srcAg=CHROME_ANDROID&ms=185.226.53.73&type=4&sig=3Hwx869v-0A&ct=8&urls=45.136.21.67&clientType=0&id=5171783666395
 
 #EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg" group-title="NACIONAL", CARACOL SD
 https://s01.castamp.com/live/Tinsel1070/chunklist.m3u8?h=8592XP8L1QKYkFos_d9jvw&e=1690506684&u=e1be99843f5f6f5d744979af1855f3f7&d=2800_484_c17b_13d5_bc03_19ff_aa18_feb
